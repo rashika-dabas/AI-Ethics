@@ -1,1 +1,1 @@
-# Food-Ordering-App
+# AI-Ethics
